@@ -2,6 +2,7 @@
 
 The short Python script for getting data from the source database, appending them to file and transfer this file via SFTP. <br>
 Run of the script is logged into file log.txt.<br>
+If some exception occurs during the run, script sends a notification to smartphone via Pushover app.<br>
 The script does these actions:
 1) Get credentials for the connection of source database, SFTP, keys for Pushover app etc. from config.py file
 2) Get data from the source database
