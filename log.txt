@@ -1,0 +1,14 @@
+2021-03-30 19:05:02,235:INFO:#######################################
+2021-03-30 19:05:02,235:INFO:Spusteni programu.
+2021-03-30 19:05:02,339:INFO:Pripojeni do databaze x uspesne.
+2021-03-30 19:05:03,128:INFO:Data nactena do pameti.
+2021-03-30 19:05:03,129:INFO:Spojeni s DB x ukonceno.
+2021-03-30 19:05:03,168:INFO:Soubor 20210330.txt vytvoren.
+2021-03-30 19:05:03,179:INFO:Connected (version 2.0, client Sun_SSH_2.4)
+2021-03-30 19:05:03,304:INFO:Authentication (password) successful!
+2021-03-30 19:05:03,305:INFO:Pripojení na server xx uspesne ... 
+2021-03-30 19:05:03,335:INFO:[chan 0] Opened sftp connection (server version 3)
+2021-03-30 19:05:03,386:INFO:Soubor file.txt prenesen na sftp.
+2021-03-30 19:05:03,387:INFO:Soubor 20210330.txt presunut do archivu.
+2021-03-30 19:05:03,387:INFO:[chan 0] sftp session closed.
+2021-03-30 19:05:03,388:INFO:Program dobehl uspesne.
